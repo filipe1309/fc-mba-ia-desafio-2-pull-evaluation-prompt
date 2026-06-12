@@ -96,7 +96,7 @@ STATUS: REPROVADO
 
 #### Iteração 2 — F1-Score ainda abaixo de 0.8
 
-![Iteração 2 — Reprovado (F1-Score 0.78)](screenshots/t1.png)
+![Iteração 2 — Reprovado (F1-Score 0.78)](screenshots/t2.png)
 
 ```
 Prompt: filipe1309/bug_to_user_story_v2
