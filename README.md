@@ -72,6 +72,8 @@ Link público: [https://smith.langchain.com/hub/filipe1309/bug_to_user_story_v2]
 
 Prompt v2 ainda com problemas da v1: sem persona clara, sem exemplos, `{bug_report}` duplicado no system e user prompt.
 
+![Iteração 1 — Reprovado (F1-Score 0.64)](screenshots/t1.png)
+
 ```
 Prompt: filipe1309/bug_to_user_story_v2
 
