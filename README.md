@@ -68,6 +68,10 @@ LangSmith Tracing detalhado:
 
 ![LangSmith Tracing — detalhe das execuções rastreadas](screenshots/ls_tracing.png)
 
+LangSmith Dataset:
+
+![LangSmith Dataset](screenshots/ls_dataset.png)
+
 ---
 
 ### Jornada de Iterações
