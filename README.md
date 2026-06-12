@@ -64,6 +64,10 @@ Antes de escrever a User Story, raciocine passo a passo:
 
 Link público: [https://smith.langchain.com/hub/filipe1309/bug_to_user_story_v2](https://smith.langchain.com/hub/filipe1309/bug_to_user_story_v2)
 
+LangSmith Tracing detalhado:
+
+![LangSmith Tracing — detalhe das execuções rastreadas](screenshots/ls_tracing.png)
+
 ---
 
 ### Jornada de Iterações
